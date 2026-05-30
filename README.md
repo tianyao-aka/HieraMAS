@@ -50,7 +50,7 @@ files yourself. The scripts expect JSONL records with the same fields as the raw
 exports, and you can either write split files to the default paths below or pass
 custom paths with `--dataset_json`, `--valid_dataset_json`, and `--test_file`.
 
-Default split paths used by the shell scripts:
+Default split paths should look like:
 
 ```text
 Datasets/MMLU/train.jsonl
