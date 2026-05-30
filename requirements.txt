@@ -1,0 +1,17 @@
+aiohttp
+astunparse
+class-registry
+datasets
+httpx
+numpy
+openai
+python-dotenv
+scikit-learn
+sentence-transformers
+shortuuid
+tenacity
+termcolor
+tiktoken
+torch
+torch-geometric
+tqdm

@@ -1,0 +1,14 @@
+.env
+__pycache__/
+*.py[cod]
+.DS_Store
+
+# Local experiment artifacts
+result*/
+results*/
+processed_results/
+checkpoints/
+*.pt
+*.pth
+*.pkl
+*.log
